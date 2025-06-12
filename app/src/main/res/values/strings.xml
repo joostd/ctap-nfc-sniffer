@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Host based Card Emulation</string>
+    <string name="servicedesc">Host Card Emulator Service</string>
+    <string name="aiddescription">Sample AID for testing</string>
+</resources>
